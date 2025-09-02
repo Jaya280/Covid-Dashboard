@@ -47,7 +47,7 @@ The project uses **`IndividualDetails.csv`**, which contains:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/covid-dashboard.git
+   git clone https://github.com/Jaya280/covid-dashboard.git
    cd covid-dashboard
 ## Screenshot
 <img width="1578" height="850" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/33cd11a1-be6a-48e1-aaf9-d49d48179b8b" />
